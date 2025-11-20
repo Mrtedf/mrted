@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
   <br><br>
   
-  <h1>Hi, I'm mrted 👋</h1>
+  <h1>Hi, I'm TED 👋</h1>
   
   <p>
     <strong>Front-end → Full-stack Developer in Progress</strong><br>
