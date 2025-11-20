@@ -33,7 +33,4 @@
     <em>Turning code into income • Available for freelance & remote work • Iran-based</em>
   </p>
   
-  <img src="https://github.com/oakoudad/badge42/blob/main/badges/nextjsbadge.svg" />
-  <img src="https://github.com/oakoudad/badge42/blob/main/badges/typescriptbadge.svg" />
-  <img src="https://github.com/oakoudad/badge42/blob/main/badges/tailwindbadge.svg" />
 </div>
